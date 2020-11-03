@@ -49,10 +49,10 @@
 
 <style scoped la>
   @import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
-  .todoContainer {
+  /*  .todoContainer {
     width: 50%;
     margin: auto;
-  }
+  } */
 
   h1 {
     text-align: center;
